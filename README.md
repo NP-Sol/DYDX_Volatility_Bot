@@ -2,7 +2,7 @@
 
 !!! NOT FINANCIAL ADVICE !!!
 - THIS PROGRAM IN NO WAY ENCOURAGES INVESTMENT OF ANY KIND !
-- MAKE YOUR OWN RESEARCH AND MAKE SURE YOU FULLY UNDERSTAND BEFORE USING IT !
+- DO YOUR OWN RESEARCH AND MAKE SURE YOU FULLY UNDERSTAND BEFORE USING IT !
 - ANY LOSS ARISING FROM ITS USE CANNOT BE ATTRIBUTED TO ANY OF ITS AUTHORS OR CONTRIBUTORS !
 
 This program is a trading automaton whose purpose is to arbitrate asset volatility by balancing a portfolio containing half of any asset and half of our reference asset (in this case, the USD).
